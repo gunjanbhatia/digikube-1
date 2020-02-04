@@ -1,6 +1,6 @@
 cloud:
   provider: "gce"
-  adminUser: "samdesh_gcp1"
+  adminUser: "gunjan_bhatia_k8s"
   project:
     name: "digikube003"
       overrideAllowed: "no"  
